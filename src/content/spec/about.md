@@ -1,9 +1,8 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+这里是 Lor 的公开笔记空间，用来记录文章、项目经验、学习笔记和一些还在生长中的想法。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+OpenLor 会优先保留真实的思考过程：问题、取舍、实现细节，以及事后复盘。
+
+- GitHub: [gobylor](https://github.com/gobylor)
+- Site: [openlor.org](https://openlor.org/)
